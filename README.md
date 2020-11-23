@@ -50,7 +50,7 @@ Steps:
 2. Open Image And Copy The Path
 3. Syantax: `![Alt Text](Path_to_image)`
 
-![Github Logo](https://github.com/Abhayparashar31/Readme-Cheatsheet/blob/main/github-logo.png)
+![Github Logo](https://github.com/Abhayparashar31/Readme-Cheatsheet/blob/main/assets/github-logo.png)
 
 ### 6. BlockQuotes
 
@@ -95,9 +95,21 @@ Syntax
 Example
 ```
   <a href="https://github.com/Abhayparashar31/Readme-Cheatsheet">
-    <img src="github-logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/github-logo.png" alt="Logo" width="80" height="80">
   </a>
 ```
 <a href="https://github.com/Abhayparashar31/Readme-Cheatsheet">
-  <img src="github-logo.png" alt="Logo" width="80" height="80">
+  <img src="assets/github-logo.png" alt="Logo" width="80" height="80">
 </a>
+
+
+### 2. Adding GIF
+Step 1: Download a GIF From Giphy or Create Your Own GIF
+Step 2: Upload GIF to Your Repo
+Step 3: Use Custom Width Code and Insert GIF
+
+Example:
+<a href="https://github.com/Abhayparashar31/Readme-Cheatsheet">
+  <img src="assets/github-gif.gif" alt="Logo" width="80" height="80">
+</a>
+
