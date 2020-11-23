@@ -206,7 +206,8 @@ Example:
 [link](ACTUAL_LINK)
 ```
 Example:
-[<img align="left" alt="Instagram" width="30px" src="https://github.com/Abhayparashar31/Readme-Cheatsheet/blob/main/assets/github-logo.png" />][link]
+
+[<img align="left" alt="Instagram" width="60px" src="https://github.com/Abhayparashar31/Readme-Cheatsheet/blob/main/assets/github-logo.png" />][link]
 [link](https://github.com/Abhayparashar31)
 
 
