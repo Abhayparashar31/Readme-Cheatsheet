@@ -33,6 +33,8 @@ Symbol    Tag       Example
 <h1> h1 Heading</h1>
 <h4> h4 Heading</h4>
 
+<hr>
+
 ### 2. Bold and Italic Text
 We need to Use `*` Symbol. 
 Actions     Syntax          Example
@@ -41,6 +43,8 @@ Bold -      `**Text**`      **Bold Text**
 Italic -    `*Text*`        *Italic Text*
 
 Bold+Italic - `***Text***`  ***Bold+Italic Text***
+
+<hr>
 
 ### 3. Lists
 
@@ -57,12 +61,16 @@ To Create a Ordered list we can simply use `1.` and so on.
 2. Point 2
 3. Point 3
 
+<hr>
+
 ### 4. Adding Links To Text
 Syntax:
 `[Text](Link)`
 
 Example:
 [Sample Text](https://github.com/Abhayparashar31)
+
+<hr>
 
 ### 5. Adding Images
 Steps:
@@ -82,6 +90,8 @@ OR
 
 ![Github Logo](https://github.com/Abhayparashar31/Readme-Cheatsheet/blob/main/assets/github-logo.png)
 
+<hr>
+
 ### 6. BlockQuotes
 
 BlockQuotes Can be inserted Using `>`
@@ -89,12 +99,16 @@ BlockQuotes Can be inserted Using `>`
 Example:
 > This is a sample BlockQuote
 
+<hr>
+
 ### 7. Inline Code
 
 To add Inline Code You Need to use **Grave Accent** symbol.
 
 Example:
 This is an example of `inline code` in Github Readme.
+
+<hr>
 
 ### 8. Syntax highlighting
 ```python
@@ -104,6 +118,8 @@ for i in range(0,100):
   elif i<50:
       print(i*i)
 ```
+
+<hr>
 
 ### 9. Tables
 ```
@@ -117,12 +133,16 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
+<hr>
+
 ### 10. StrikeThrew
 
 ```
 ~~content~~
 ```
 ~~content~~ 
+
+<hr>
 
 ### 11. Line Break
 ```
@@ -131,6 +151,8 @@ or
 <br>
 ```
 <br>
+
+<hr>
 
 ### 12. Horizontal Rule
 To add a Horizontal Rule In Readme we can use `---` or `***` or `<hr>`.
