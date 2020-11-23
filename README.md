@@ -1,6 +1,6 @@
-# README CHEATSHEET 
+# **README CHEATSHEET 🚀**
 
-## Basics
+## **Basics**
 
 ### 1. Headings 
 
@@ -16,7 +16,9 @@ Symbol    Tag       Example
 ### 2. Bold and Italic Text
 
 Bold - `**Text**`  **Bold Text**
+
 Italic - `*Text*`  *Italic Text*
+
 Bold+Italic - `***Text***`  ***Bold+Italic Text***
 
 ### 3. Lists
@@ -32,12 +34,13 @@ To Create a Ordered list we can simply use `1.` and so on.
 1. Point 1
 2. Point 2
 3. Point 3
-  3.1 Point 3.1
-  3.2 Point 3.2
+    3.1 Point 3.1
+    3.2 Point 3.2
 
 ### 4. Adding Links To Text
 Syntax:
 `[Text](Link)`
+
 Example:
 [Sample Text](https://github.com/Abhayparashar31)
 
@@ -49,4 +52,4 @@ Steps:
 
 ![Github Logo](https://github.com/Abhayparashar31/Readme-Cheatsheet/blob/main/github-logo.png)
 
-
+###
