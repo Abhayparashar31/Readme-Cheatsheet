@@ -37,7 +37,9 @@ Symbol    Tag       Example
 
 ### 2. Bold and Italic Text
 We need to Use `*` Symbol. 
+
 Actions     Syntax          Example
+
 Bold -      `**Text**`      **Bold Text**
 
 Italic -    `*Text*`        *Italic Text*
