@@ -198,20 +198,15 @@ Example:
   <img src="assets/github-gif.gif" alt="Logo" width="150" height="150">
 </a>
 
-### 3. Adding External Link / Adding Same Link To Multiple Text
+### 3. Adding Link To Images
 
 ```
-[Sampel Text 1][link]
-[Sampel Text 2][link]
-[Sampel Text 3][link]
+[<img align="left" alt="Instagram" width="30px" src="https://github.com/Abhayparashar31/Readme-Cheatsheet/blob/main/assets/github-logo.png" />][link]
 
 [link](ACTUAL_LINK)
 ```
 Example:
-[Sampel Text 1][link]
-[Sampel Text 2][link]
-[Sampel Text 3][link]
-
+[<img align="left" alt="Instagram" width="30px" src="https://github.com/Abhayparashar31/Readme-Cheatsheet/blob/main/assets/github-logo.png" />][link]
 [link](https://github.com/Abhayparashar31)
 
 
