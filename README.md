@@ -61,7 +61,17 @@ Example:
 
 ### 7. Inline Code
 
-To add Inline Code You Need to use `` ``
+To add Inline Code You Need to use **Grave Accent** symbol.
 
 Example:
 This is an example of `inline code` in Github Readme.
+
+
+### 8. Horizontal Rule
+To add a Horizontal Rule In Readme we can use `--` .
+
+--
+
+## **Advance**
+
+
