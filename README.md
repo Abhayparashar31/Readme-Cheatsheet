@@ -85,8 +85,19 @@ for i in range(0,100):
       print(i*i)
 ```
 
+### 9. Tables
+```
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+```
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
-### 9. Horizontal Rule
+### 10. Horizontal Rule
 To add a Horizontal Rule In Readme we can use `---` or `***` .
 
 ***
@@ -115,7 +126,9 @@ Example
 
 ### 2. Adding GIF
 Step 1: Download a GIF From Giphy or Create Your Own GIF
+
 Step 2: Upload GIF to Your Repo
+
 Step 3: Use Custom Width Code and Insert GIF
 
 Example:
@@ -125,6 +138,7 @@ Example:
 </a>
 
 ### 3. Adding External Link / Adding Same Link To Multiple Text
+
 ```
 [Sampel Text 1][link]
 [Sampel Text 2][link]
@@ -133,7 +147,6 @@ Example:
 [link](ACTUAL_LINK)
 ```
 Example:
-
 [Sampel Text 1][link]
 [Sampel Text 2][link]
 [Sampel Text 3][link]
@@ -144,11 +157,14 @@ Example:
 ### 4. Adding hyperlinks or Tabs
 
 ```
-[Link to B][B]
-[B][link]
-[Sampel Text 3][link]
+[Basics](#basics)
+
+# Basics
+...
+...
+...
 ```
-[Text](Basics)
+[Basics](#basics)
 
 
 
