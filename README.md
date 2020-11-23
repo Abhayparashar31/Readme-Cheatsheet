@@ -27,8 +27,10 @@ Symbol    Tag       Example
 ###### h6 heading
 
 ```
-<h4>Heading</h4>
+<h1>h1 Heading</h1>
+<h4>h4 Heading</h4>
 ```
+<h1> h1 Heading</h1>
 <h4> h4 Heading</h4>
 
 ### 2. Bold and Italic Text
