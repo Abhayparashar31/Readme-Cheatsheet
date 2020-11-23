@@ -1,6 +1,6 @@
 ## README CHEATSHEET 
 
-### 1. Headings 
+####   1. Headings 
 
 To create a heding in Readme we need to use  #. Size of headings can be change by adding multiple  `#` Together. The greate the number of `#` is the smaller the heading is.
 ```
