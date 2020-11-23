@@ -15,17 +15,21 @@ Symbol    Tag       Example
 `##`      <h1>      # h2 heading
 `###`     <h4>      # h3 heading
 `####`    <h4>      # h4 heading
+`#####`   <h5>      # h5 heading
+`######`  <h6>      # h6 heading
 ```
 
 # h1 heading
 ## h2 heading
 ### h3 heading
 #### h4 heading
+##### h5 heading
+###### h6 heading
 
 ```
-<h1>Heading</h1>
+<h4>Heading</h4>
 ```
-<h1>Heading</h1>
+<h4> h4 Heading</h4>
 
 ### 2. Bold and Italic Text
 We need to Use `*` Symbol. 
