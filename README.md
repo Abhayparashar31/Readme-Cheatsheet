@@ -14,10 +14,11 @@ Symbol    Tag       Example
 ```
 
 ### 2. Bold and Italic Text
+We need to Use `*` Symbol. 
+Actions     Syntax          Example
+Bold -      `**Text**`      **Bold Text**
 
-Bold - `**Text**`  **Bold Text**
-
-Italic - `*Text*`  *Italic Text*
+Italic -    `*Text*`        *Italic Text*
 
 Bold+Italic - `***Text***`  ***Bold+Italic Text***
 
@@ -30,12 +31,11 @@ To Create a Unorderedlist we can use `*` or `-` for each list point.
 - Bullet Point 2 Using `-`
 
 To Create a Ordered list we can simply use `1.` and so on.
+
 **Example:**
 1. Point 1
 2. Point 2
 3. Point 3
-    3.1 Point 3.1
-    3.2 Point 3.2
 
 ### 4. Adding Links To Text
 Syntax:
@@ -52,4 +52,12 @@ Steps:
 
 ![Github Logo](https://github.com/Abhayparashar31/Readme-Cheatsheet/blob/main/github-logo.png)
 
-###
+### 6. BlockQuotes
+
+BlockQuotes Can be inserted Using `>`
+
+Example:
+
+This is a sample BlockQuote:
+> First Sample Line
+> Second Sample Line
