@@ -3,7 +3,7 @@
 </h1>
 <hr>
 
-<h2 align='center' style='font-weight:800;'>
+<h2 align='center'>
  Basics </h2>
  
 ### 1. Headings 
@@ -108,12 +108,22 @@ Content in the first column | Content in the second column
 ```
 ~~content~~ 
 
-### 11. Horizontal Rule
+### 11. Line Break
+```
+<br/>
+or
+<br>
+```
+<br>
+
+### 12. Horizontal Rule
 To add a Horizontal Rule In Readme we can use `---` or `***` or `<hr>`.
 
 ***
+<br/>
 
-## **Advance**
+<h2 align='center'>
+ Advance </h2>
 
 ### 1. Custom Width and Height Images
 To add Height and Width To our Images We can Use Tags From HTML.
