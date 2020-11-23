@@ -17,6 +17,16 @@ Symbol    Tag       Example
 `####`    <h4>      # h4 heading
 ```
 
+# h1 heading
+## h2 heading
+### h3 heading
+#### h4 heading
+
+```
+<h1>Heading</h1>
+```
+<h1>Heading</h1>
+
 ### 2. Bold and Italic Text
 We need to Use `*` Symbol. 
 Actions     Syntax          Example
