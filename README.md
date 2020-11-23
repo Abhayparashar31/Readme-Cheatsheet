@@ -2,6 +2,7 @@
  README CHEATSHEET 🚀
 </h1>
 <hr>
+
 ## **Basics**
 ### 1. Headings 
 
@@ -106,7 +107,7 @@ Content in the first column | Content in the second column
 ~~content~~ 
 
 ### 11. Horizontal Rule
-To add a Horizontal Rule In Readme we can use `---` or `***` .
+To add a Horizontal Rule In Readme we can use `---` or `***` or `<hr>`.
 
 ***
 
