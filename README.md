@@ -57,7 +57,11 @@ Steps:
 BlockQuotes Can be inserted Using `>`
 
 Example:
+> This is a sample BlockQuote
 
-This is a sample BlockQuote:
-> First Sample Line
-> Second Sample Line
+### 7. Inline Code
+
+To add Inline Code You Need to use `` ``
+
+Example:
+This is an example of `inline code` in Github Readme.
