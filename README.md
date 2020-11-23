@@ -210,7 +210,8 @@ Example:
 [<img align="left" alt="Instagram" width="60px" src="https://github.com/Abhayparashar31/Readme-Cheatsheet/blob/main/assets/github-logo.png" />](https://github.com/Abhayparashar31)
 
 <br>
-
+<br>
+<br>
 ### 4. Adding hyperlinks or Tabs
 
 ```
