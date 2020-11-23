@@ -168,19 +168,26 @@ Example:
 ### [Advance](#advance)
 
 
-### 5. [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+### 5. Markdown Badges
 
 * Single Badges
 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 * Multiple Badges Together
-
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+> [Check Out All Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+
+### 6. Shields Badges
+
+See more: [https://shields.io/](https://shields.io/)
+
+[![GitHub forks](https://img.shields.io/github/forks/fefong/markdown_readme)](https://github.com/Abhayparashar31/Readme-Cheatsheet/network)
+![Markdown](https://img.shields.io/badge/markdown-project-red)
 
 
