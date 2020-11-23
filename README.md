@@ -1,4 +1,6 @@
-# **README CHEATSHEET 🚀**
+<h1 align='center'>
+ README CHEATSHEET 🚀
+</h1>
 
 ## **Basics**
 
@@ -97,7 +99,14 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-### 10. Horizontal Rule
+### 10. StrikeThrew
+
+```
+~~content~~
+```
+~~content~~ 
+
+### 11. Horizontal Rule
 To add a Horizontal Rule In Readme we can use `---` or `***` .
 
 ***
@@ -182,12 +191,13 @@ Example:
 </p>
 
 > [Check Out All Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+> [See All Shield Badges](https://shields.io/)
 
-### 6. Shields Badges
 
-See more: [https://shields.io/](https://shields.io/)
+### 6. Emojis
+ Check Out The List Of Emojies [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+ 
+ 
 
-[![GitHub forks](https://img.shields.io/github/forks/fefong/markdown_readme)](https://github.com/Abhayparashar31/Readme-Cheatsheet/network)
-![Markdown](https://img.shields.io/badge/markdown-project-red)
 
 
