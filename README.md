@@ -1,8 +1,7 @@
 <h1 align='center'>
  README CHEATSHEET 🚀
 </h1>
---------------------------------------
-
+<hr>
 ## **Basics**
 ### 1. Headings 
 
