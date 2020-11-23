@@ -66,12 +66,38 @@ To add Inline Code You Need to use **Grave Accent** symbol.
 Example:
 This is an example of `inline code` in Github Readme.
 
+### 8. Syntax highlighting
+```
+For i in range(0,100):
+  if i>50:
+      print(i)
+  elif i<50:
+      print(i*i)
+```
 
-### 8. Horizontal Rule
+
+### 9. Horizontal Rule
 To add a Horizontal Rule In Readme we can use `---` or `***` .
 
 ***
 
 ## **Advance**
 
+### 1. Custom Width and Height Images
+To add Height and Width To our Images We can Use Tags From HTML.
 
+Syntax
+```
+  <a href="LINK_TO_REPO">
+    <img src="IMAGE_PATH_INSIDE_REPO" alt="Logo" width="80" height="80">
+  </a>
+```
+Example
+```
+  <a href="https://github.com/Abhayparashar31/Readme-Cheatsheet">
+    <img src="github-logo.png" alt="Logo" width="80" height="80">
+  </a>
+```
+<a href="https://github.com/Abhayparashar31/Readme-Cheatsheet">
+  <img src="github-logo.png" alt="Logo" width="80" height="80">
+</a>
