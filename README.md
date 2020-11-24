@@ -223,8 +223,7 @@ Example:
 ...
 ...
 ```
-### [Basics](#headings)
-### [Advance](#)
+### [Basics](#)
 
 
 ### 5. Markdown Badges
